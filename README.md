@@ -30,5 +30,6 @@
   </a>
   <a href="mailto:ваш_email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    artempop28@gmail.com
   </a>
 </p>
