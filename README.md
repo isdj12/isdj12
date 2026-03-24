@@ -18,14 +18,14 @@
 ### Активность и вклады
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/isdj/isdj/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/isdj12/isdj12/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isdj&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=isdj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isdj12&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isdj12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
