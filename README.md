@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Привет, я Артем Попков!</h1>
-  <p><i>Python Developer & QA Automation Engineer</i></p>
   <img src="https://github-readme-stats.vercel.app/api?username=isdj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
