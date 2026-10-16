@@ -6,9 +6,9 @@
 
 ### Обо мне
 
-Разрабатываю на **Go** и занимаюсь **автоматизацией тестирования (QA)**.
+Я специализируюсь на разработке на **Go** и **автоматизации тестирования**.
 
-- **Стек:** Go, Python (Pytest), Docker, Git.
+- **Стек:** Go, Python (Pytest), Git, VS Code.
 - **ОС:** Arch Linux.
 
 ---
@@ -31,9 +31,4 @@
 ### Стек технологий
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="
